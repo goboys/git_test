@@ -7,6 +7,7 @@ package com.moven.hellowold;
  * dev分支搞了一个东西，哈哈哈
  * 再搞个看看
  * dev分支加加加
+ * new分支看看是个什么样子的咯
  */
 public class App 
 {
